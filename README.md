@@ -1,3 +1,5 @@
-# yubeshbhattarai-demo
-This is my first repositery.<br>
-Author-YUBESH BHATTARAI
+# MY FIRST REPOSITORY-DEMO
+Hello,My self yubesh Bhattarai<br>
+I am a IT student from jhapa,nepal <br>
+Bassically i am a learner .
+
